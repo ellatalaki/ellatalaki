@@ -12,7 +12,7 @@ Disponible imediatement, mobile en France et au Luxembourg.
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-`Pandas` · `Scikit-learn` · `XGBoost` · `ggplot2` · `Matplotlib` · `EViews`
+`Pandas` · `Scikit-learn` · `XGBoost` · `ggplot2` · `Matplotlib` · `EViews`  · `SAS` · `Tableau`
 
 ---
 
