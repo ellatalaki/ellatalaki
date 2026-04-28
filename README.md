@@ -24,7 +24,7 @@ Disponible imediatement, mobile en France et au Luxembourg.
 | [ VaR & CVaR](https://github.com/ellatalaki/var-cvar-risk-management) | R | Risque financier, S&P 500, Backtesting |
 | [ Modèle VAR](https://github.com/ellatalaki/var-macroeconometrique-france) | R | PIB vs Investissement France, Granger, Johansen |
 | [ Crise Internet](https://github.com/ellatalaki/analyse-conjoncturelle-bulle-internet) | R · EViews | Bulle dot-coms 1990–2002, transmission macro, politique Fed |
-| [ Enquête Réseaux Sociaux](https://github.com/ellatalaki/enquete-reseaux-sociaux-adolescents) | CSPro · R | Sondage terrain, 100 adolescents, impact scolaire & social |
+| [ Enquête Réseaux Sociaux](https://github.com/ellatalaki/enquete-reseaux-sociaux-adolescents) | CSPro · R · Excel| Sondage terrain, 100 adolescents, impact scolaire & social |
 ---
 
 ### 🎓 Formation
