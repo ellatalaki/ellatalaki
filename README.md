@@ -28,7 +28,7 @@ Disponible imediatement, mobile en France et au Luxembourg.
 
 ### 🎓 Formation
 
-**Master 2 ESAEF** — Économie et Statistiques Appliquées à la   finance  
+**Master 1 & 2 ESAEF** — Économie et Statistiques Appliquées à la   finance  
 Université de Lorraine, Metz
 
 **Licence Économie** — Économie   
