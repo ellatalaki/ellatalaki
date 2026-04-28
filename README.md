@@ -12,7 +12,7 @@ Disponible imediatement, mobile en France et au Luxembourg.
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-`Pandas` · `Scikit-learn` · `XGBoost` · `ggplot2` · `Matplotlib` · `EViews`  · `SAS` · `Tableau`
+`Pandas` · `Scikit-learn` · `XGBoost` · `ggplot2` · `Matplotlib` · `EViews`  · `SAS` · `Tableau`· `Excel`· `Microsoft office`
 
 ---
 
@@ -20,10 +20,11 @@ Disponible imediatement, mobile en France et au Luxembourg.
 
 | Projet | Stack | Thème |
 |---|---|---|
-| [🐍 Credit Scoring & ML](https://github.com/ellatalaki/credit-scoring-machine-learning) | Python | Prédiction défaut crédit, XGBoost, AUC 0.859 |
-| [📊 VaR & CVaR](https://github.com/ellatalaki/var-cvar-risk-management) | R | Risque financier, S&P 500, Backtesting |
-| [📈 Modèle VAR](https://github.com/ellatalaki/var-macroeconometrique-france) | R | PIB vs Investissement France, Granger, Johansen |
-
+| [ Credit Scoring & ML](https://github.com/ellatalaki/credit-scoring-machine-learning) | Python | Prédiction défaut crédit, XGBoost, AUC 0.859 |
+| [ VaR & CVaR](https://github.com/ellatalaki/var-cvar-risk-management) | R | Risque financier, S&P 500, Backtesting |
+| [ Modèle VAR](https://github.com/ellatalaki/var-macroeconometrique-france) | R | PIB vs Investissement France, Granger, Johansen |
+| [ Crise Internet](https://github.com/ellatalaki/analyse-conjoncturelle-bulle-internet) | R · EViews | Bulle dot-coms 1990–2002, transmission macro, politique Fed |
+| [ Enquête Réseaux Sociaux](https://github.com/ellatalaki/enquete-reseaux-sociaux-adolescents) | CSPro · R | Sondage terrain, 100 adolescents, impact scolaire & social |
 ---
 
 ### 🎓 Formation
